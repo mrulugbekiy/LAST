@@ -10,7 +10,7 @@ const classmates = [
     quote: "Rahimova Iroda Shavkatovna , 1986 yil 3-Fevral kuni Toshkent shahri da tug'ilganlar . 2009 yildan beri O'qituvchi sifatida o'z faoliyatlarini shu kungacha davom ettiradilar va jami 3 ta maktabda ishlaganlar , bular 237 maktab , 26 maktab va 332 maktab . O'z faoliyatlari davomida ko'plab yutuqlar , jumladan 1 toifa o'ituvchisi va Yil o'qituvchisi sovrinlariga sazovor bo'lganlar va Eng Asosiy Yutuqlari : O'quvchilari uchun Sevimli Ustoz bo'lganlar. Shu kungacha minglab o'quvchilarga Tarix va Tarbiya Fanlaridan dars berib kelganlar va ko'plab o'quvchilari hozirgi kunda hayotda o'z o'rnini topib ketishgan. Hozirgi kunda 332 maktabda ishlab 9F sinfga Rahbarlik qiladilar . Kelajak maqsadlari : Farzandlari va o'uvchilari kamolini ko'rib yurish va ushalmagan orzularni amalga oshirish. ",
     description: "Tarix , Tarbiya fani o'qituvchisi va 9F sinf Rahbari. 1.000.000 dan 1 ta uchraydigan inson",
     isFavorite: false,
-    additionalPhotos: ["images/teachers/iroda2.jpg","images/teachers/iroda3.jpg", "images/teachers/iroda4.JPG","images/teachers/iroda5.JPG"],
+    additionalPhotos: ["images/teachers/iroda2.jpg","images/teachers/iroda3.jpg", "images/teachers/iroda4.jpg","images/teachers/iroda5.jpg"],
     socialLinks: []
   },
   {
@@ -790,3 +790,4 @@ displayClassmates();
   Odilov Saidamirxon Umidjon o'g'li 2010 yil 3 Yanvar kuni da tug'ilgan. 332 maktab 6F sinfiga imtihon dan o'tib kirgan va shu sinfda 9 sinfgacha qolgan.11 sinfgacha qolish niyati bor . Kelajakdagi maqsadi : O'z kasbi yo'nalishi bo'yicha Grant asosida o'qishga kirish
 
   */ 
+
